@@ -12,4 +12,7 @@ Done with feature changes
 Added text in master
 Done changes in master
 
+
 Added file1 and file2 to the feature.
+
+There were further changes done in the master version.
